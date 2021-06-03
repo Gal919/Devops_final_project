@@ -10,7 +10,7 @@
 <body>
     <div class="top-container">
         <img class="up-cloud" src="images/cloud.png" alt="">
-        <h1>Hello Ziv</h1> 
+        <h1>Hello</h1> 
         <h2 class="title">Have a nice day :)</h2>
         <img class="bottom-cloud" src="images/cloud.png" alt="">
         <img class="mountain" src="images/mountain.png" alt="mountain-image">
